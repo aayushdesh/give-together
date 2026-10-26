@@ -8,8 +8,11 @@ Give Together helps people start donation drives, find drives to join, and repor
 
 This student project runs locally with Google sign-in, a SQLite database, and Python features for donation ideas, progress messages, item counts, and daily encouragement. The screenshot shows sample activity for a presentation.
 
-# Demo
-https://www.youtube.com/watch?v=EiBx3tYZNY8
+## Demo
+
+[![Watch the Give Together demo](https://img.youtube.com/vi/EiBx3tYZNY8/hqdefault.jpg)](https://www.youtube.com/watch?v=EiBx3tYZNY8)
+
+**[▶ Watch the demo on YouTube](https://www.youtube.com/watch?v=EiBx3tYZNY8)**
 
 ## Open the website
 
