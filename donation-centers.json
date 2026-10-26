@@ -1,0 +1,35 @@
+[
+  {
+    "key": "samaritan-house",
+    "name": "Samaritan House",
+    "kind": "Nonprofit",
+    "zip": "94403",
+    "address": "4031 Pacific Boulevard, San Mateo, CA 94403",
+    "items": "Children’s clothing and toiletries; arrange a drop-off appointment first.",
+    "website": "https://samaritanhousesanmateo.org/donate/",
+    "notes": "Contact the organization before bringing goods. Check its current accepted-item list.",
+    "source": "https://samaritanhousesanmateo.org/donate/"
+  },
+  {
+    "key": "san-mateo-library",
+    "name": "San Mateo Main Library — Friends book donations",
+    "kind": "City program",
+    "zip": "94402",
+    "address": "55 West 3rd Avenue, San Mateo, CA 94402",
+    "items": "Clean, new or gently used books and DVDs/Blu-rays.",
+    "website": "https://www.cityofsanmateo.org/510/Friends-of-the-Library-Donations",
+    "notes": "Main Library lobby during library hours. Up to two boxes or four bags; arrange larger donations in advance.",
+    "source": "https://www.cityofsanmateo.org/510/Friends-of-the-Library-Donations"
+  },
+  {
+    "key": "second-harvest-bing",
+    "name": "Second Harvest — Bing Center",
+    "kind": "Nonprofit",
+    "zip": "94070",
+    "address": "1051 Bing Street, San Carlos, CA 94070",
+    "items": "Unopened, unexpired shelf-stable food. No glass containers or prepared food.",
+    "website": "https://www.shfb.org/give-help/donate-food/",
+    "notes": "Check current drop-off hours before visiting. Contact Second Harvest before organizing a collection for them.",
+    "source": "https://www.shfb.org/give-help/donate-food/"
+  }
+]
